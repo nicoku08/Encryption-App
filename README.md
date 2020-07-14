@@ -12,7 +12,7 @@ The _gui_app.py_ file contains the code to run the application which imports the
 
 The code in _encrypt_app.py_ contains the Caesar Cipher functions, the **AES Cipher** which encrypts/decrypts text files in your directory. Both ciphers can be used by running the code in your terminal and following the instructions given.
  
-![Alt Text] (<https://github.com/nicoku08/Encryption-App/blob/master/appDemo.gif>)
+![Alt Text] (<https://github.com/nicoku08/Encryption-App/blob/master/app_demo.gif>)
 
 
 ## License 
